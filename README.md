@@ -1,10 +1,10 @@
-# proy2-datos-SWOT
+# ohwe24-proy2-plasticos
 
-- **Título:** Preparandonos para los futuros datos SWOT
-- **Mentor:** Laura Gómez Navarro
-- **breve descripción:** Nos centramos en datos de satélite, particularmente los futuros datos SWOT y datos de oleaje.  Trabajamos en la visualización de datos, análisis temporal y espectros de Fourier.
+- **Título:** xxx
+- **Mentoras:** Laura Gómez Navarro y Julia Jaca
+- **breve descripción:** xxxx
 - **Lenguaje:** Python
-- **Horario:** Disponible 11:30-13:30 Trabajo en grupo Proyectos A
+- **Horario:** Disponible xxx
 
 - **Zona:** 
 - **Periodo de tiempo:** 
