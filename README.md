@@ -6,8 +6,8 @@
 - **Lenguaje:** Python
 - **Horario:** Disponible 11:30-13:30 Trabajo en grupo Proyectos A
 
-- **Zona:** 
-- **Periodo de tiempo:** 
+- **Zona:** mar interior de Chiloé
+- **Periodo de tiempo:** 1 al 4 de enero 2023
 
 ## Instrucciones para añadir cambios a github
 Los pasos en () solo para la primera vez que se haga push
