@@ -7,7 +7,7 @@
 - **Horario:** Disponible xxx
 
 - **Zona:** mar interior de Chiloé
-- **Periodo de tiempo:** 1 al 10 de enero 2023
+- **Periodo de tiempo:** 1 al 10 de enero 1998
 - **Datos:** https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_BGC_001_033/description 
 
 ## Instrucciones para añadir cambios a github
